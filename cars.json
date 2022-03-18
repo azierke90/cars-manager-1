@@ -1,0 +1,56 @@
+[
+  {
+    "model": "BMW",
+    "price": 120,
+    "color": "BLACK",
+    "mileage": 1500,
+    "components": [
+      "ABS",
+      "ALLOY WHEELS",
+      "BOSE SOUND SYSTEM"
+    ]
+  },
+  {
+    "model": "MAZDA",
+    "price": 160,
+    "color": "WHITE",
+    "mileage": 2500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "MERCEDES",
+    "price": 210,
+    "color": "WHITE",
+    "mileage": 2100,
+    "components": [
+      "ABS",
+      "BLUETOOTH",
+      "APPLE CAR PLAY",
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "MERCEDES",
+    "price": 320,
+    "color": "WHITE",
+    "mileage": 800,
+    "components": [
+      "ABS",
+      "APPLE CAR PLAY",
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "PORSHE",
+    "price": 320,
+    "color": "BLACK",
+    "mileage": 1950,
+    "components": [
+      "BLUETOOTH",
+      "ALLOY WHEELS"
+    ]
+  }
+]
