@@ -9,6 +9,7 @@
   <version>${revision}</version>
   <modules>
     <module>persistence</module>
+      <module>service</module>
   </modules>
 
   <name>cars-manager-1</name>
